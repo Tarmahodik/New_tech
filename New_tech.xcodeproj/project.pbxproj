@@ -12,7 +12,6 @@
 		9BE2959127A472CC0024EBAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BE2959027A472CC0024EBAC /* Assets.xcassets */; };
 		9BE2959427A472CC0024EBAC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BE2959327A472CC0024EBAC /* Preview Assets.xcassets */; };
 		9BE2959E27A472CC0024EBAC /* New_techTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BE2959D27A472CC0024EBAC /* New_techTests.swift */; };
-		9BE295A827A472CC0024EBAC /* New_techUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BE295A727A472CC0024EBAC /* New_techUITests.swift */; };
 		9BE295AA27A472CC0024EBAC /* New_techUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BE295A927A472CC0024EBAC /* New_techUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
@@ -42,7 +41,6 @@
 		9BE2959927A472CC0024EBAC /* New_techTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = New_techTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BE2959D27A472CC0024EBAC /* New_techTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = New_techTests.swift; sourceTree = "<group>"; };
 		9BE295A327A472CC0024EBAC /* New_techUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = New_techUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		9BE295A727A472CC0024EBAC /* New_techUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = New_techUITests.swift; sourceTree = "<group>"; };
 		9BE295A927A472CC0024EBAC /* New_techUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = New_techUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -121,7 +119,6 @@
 		9BE295A627A472CC0024EBAC /* New_techUITests */ = {
 			isa = PBXGroup;
 			children = (
-				9BE295A727A472CC0024EBAC /* New_techUITests.swift */,
 				9BE295A927A472CC0024EBAC /* New_techUITestsLaunchTests.swift */,
 			);
 			path = New_techUITests;
@@ -275,7 +272,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				9BE295AA27A472CC0024EBAC /* New_techUITestsLaunchTests.swift in Sources */,
-				9BE295A827A472CC0024EBAC /* New_techUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
